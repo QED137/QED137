@@ -1,4 +1,4 @@
-### Welcome to the Github repository of Jay
+### Welcome to the Github repository of Janmajay Kumar
 
 
 - 🔭 I’m Master's in Astro and Particle Physics
