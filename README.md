@@ -12,18 +12,12 @@
 
 ## PROJECTS
 [![HTML5](https://img.shields.io/badge/HTML5-latest-orange.svg)](https://www.w3schools.com/tags/default.asp?tagname=html5) [![CSS3](https://img.shields.io/badge/CSS3-latest-orange.svg)](https://www.w3schools.com/css/default.asp) [![JavaScript](https://img.shields.io/badge/JavaScript-latest-yellow.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![Flask](https://img.shields.io/badge/Flask-latest-orange.svg)](https://flask.palletsprojects.com/en/) [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://www.tensorflow.org/) [![PyTorch](https://img.shields.io/badge/PyTorch-latest-orange.svg)](https://pytorch.org/) [![NumPy](https://img.shields.io/badge/NumPy-latest-blue.svg)](https://numpy.org/) [![Pandas](https://img.shields.io/badge/pandas-latest-green.svg)](https://pandas.pydata.org/) [![Seaborn](https://img.shields.io/badge/Seaborn-latest-green.svg)](https://seaborn.pydata.org/) [![MySQL](https://img.shields.io/badge/MySQL-8.0-blue.svg)](https://www.mysql.com/)
-
-This repository showcases my work in several areas, demonstrating my skills and interests in computational science, machine learning, and web development. 
-<div align="center" style="width: 100%; max-width: 480px; overflow: hidden;">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3k4ZG92OXV6aHZnMG40bXN6a3RhZ3RsMGh6NWV5YXpoNHNsdWdmcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif" style="width: 100%; height: auto;">
+<div align="center">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=QED137&theme=solarized-dark&border_radius=6&card_width=700&card_height=200" alt="GitHub Streak" /></a>
 </div>
 
 
-
-
-
-
- 
+This repository showcases my work in several areas, demonstrating my skills and interests in computational science, machine learning, and web development. 
 
 **1. Physics Simulations:**
 
@@ -56,3 +50,4 @@ This section is dedicated to projects fueled by my love of coding. Here, you'll 
 
 
 - You can contact me at janmajay@iitdalumni.com
+
