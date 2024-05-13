@@ -15,11 +15,26 @@
 
  
 
-### This repository showcases my work in three key areas:
-1. **Physics Simulations:** This repository features a diverse collection of code from my Master's program, showcasing my skills in computational physics and simulation techniques.
-   [folder1](https://github.com/QED137/Mass-transport-models-and-their-applications)
-3. **Machine Learning:** Implement machine learning algorithms and models in various projects.
-4. **Web Development:** Build web applications using various web development frameworks and tools.
+**1. Physics Simulations:**
+
+This section features a diverse collection of code from my Master's program, highlighting my expertise in computational physics and simulation techniques. Explore the projects in the following folders:
+
+* **[Folder Name 1]:** (Brief description of the project's focus) - [Link to folder](https://github.com/QED137/Mass-transport-models-and-their-applications)
+* **[Folder Name 2]:** (Brief description of the project's focus) - [Link to folder](https://github.com/QED137/N-Body)
+* **[Folder Name 3]:** (Brief description of the project's focus) - [Link to folder](https://github.com/QED137/ComputationalAstrophysics)
+
+**2. Machine Learning:**
+
+This section showcases my ability to implement machine learning algorithms and models in various projects.  (Consider mentioning specific projects or areas of interest here).
+
+**3. Web Development:**
+
+Explore my experience in building web applications using various frameworks and tools.  (Consider mentioning specific projects or technologies used here).
+
+**4. Fun Projects:**
+
+This section is dedicated to projects fueled by my love of coding. Here, you'll find solutions to interesting math problems or applications I developed for the joy of exploration.
+
 ### Physics Simulations
 
 
