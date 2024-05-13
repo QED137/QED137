@@ -4,7 +4,7 @@
 ### Skills:
 - ***Full-Stack Development***: Experienced in building web applications using Python frameworks like Flask and leveraging other web development tools.
 - ***Machine Learning & Deep Learning***: Possess a strong foundation in machine learning and deep learning concepts, honed through coursework on platforms like Coursera.
-- ***Project Experience***: Successfully developed projects in both full-stack development and machine learning, The description of projects are below. 
+- ***Project Experience***: Successfully developed projects in both full-stack development and machine learning, The description of the projects is below. 
 ### Current Focus
 - ***MLOps***: Actively exploring the field of MLOps to bridge the gap between machine learning model development and production deployment.
 
@@ -20,9 +20,9 @@ This repository showcases my work in several areas, demonstrating my skills and 
 
 This section features a diverse collection of code from my Master's program, highlighting my expertise in computational physics and simulation techniques. Explore the projects in the following folders:
 
-* **[N-Bodies Simulation: Chaos In Planetary System]:**  - [Link to folder](https://github.com/QED137/Mass-transport-models-and-their-applications)
-* **[Folder Name 2]:** (Brief description of the project's focus) - [Link to folder](https://github.com/QED137/N-Body)
-* **[Folder Name 3]:** (Brief description of the project's focus) - [Link to folder](https://github.com/QED137/ComputationalAstrophysics)
+* **N-Bodies Simulation: Chaos In Planetary System:**  - [Link to folder](https://github.com/QED137/Mass-transport-models-and-their-applications)
+* **Computational Astrophysics:**  [Link to folder](https://github.com/QED137/N-Body)
+* **Mass Transport Models And Applications:**  [Link to folder](https://github.com/QED137/ComputationalAstrophysics)
 
 **2. Machine Learning:**
 
