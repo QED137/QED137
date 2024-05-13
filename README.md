@@ -42,7 +42,7 @@ This section explores my web development skills, featuring both static websites 
  
 ### 4. Fun Projects:
 This section is dedicated to projects fueled by my love of coding. Here, you'll find solutions to interesting math problems or applications I developed for the joy of exploration.
-* **Collatz Conjecture:** Investigates the Collatz sequence's behavior through code [link for folder] (https://github.com/QED137/Collatz_conjecture)
+* **Collatz Conjecture:** Investigates the Collatz sequence's behavior through code [ For Details](https://github.com/QED137/Collatz_conjecture)
 * **Essential Statistics:** This section provides an introduction to essential statistical concepts needed to kickstart your understanding of data analysis. It includes course materials and relevant code examples. [link to three folders](https://github.com/QED137/EssentialStatistics)
 
 ### :fire: Github stats
