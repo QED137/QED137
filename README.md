@@ -19,24 +19,24 @@ This repository showcases my work in several areas, demonstrating my skills and 
 
 This section features a diverse collection of code from my Master's program, highlighting my expertise in computational physics and simulation techniques. Explore the projects in the following folders:
 
-* **N-Bodies Simulation: Chaos In Planetary System:**  This code is part of coursework at Tübingen University from 2019 to 2021. [Link to folder](https://github.com/QED137/Mass-transport-models-and-their-applications)
-* **Computational Astrophysics:**  This code is part of coursework at Tübingen University from 2019 to 2021.[Link to folder](https://github.com/QED137/N-Body)
-* **Mass Transport Models And Applications:** This is my master's thesis in Physics at the Indian Institute of Technology Delhi, India, from 2011 to 2013 [Link to folder](https://github.com/QED137/ComputationalAstrophysics)
-* **Cherenkov Gamma Telescope Event Classification:** [link to folder](https://github.com/QED137/Machine-Learning-Project-on-Cherenkov-gamma-telescope-)
+* **N-Bodies Simulation: Chaos In Planetary System:**  This code is part of coursework at Tübingen University from 2019 to 2021. [For Details](https://github.com/QED137/Mass-transport-models-and-their-applications)
+* **Computational Astrophysics:**  This code is part of coursework at Tübingen University from 2019 to 2021.[For Details](https://github.com/QED137/N-Body)
+* **Mass Transport Models And Applications:** This is my master's thesis in Physics at the Indian Institute of Technology Delhi, India, from 2011 to 2013 [For Details](https://github.com/QED137/ComputationalAstrophysics)
+* **Cherenkov Gamma Telescope Event Classification:** [For Details](https://github.com/QED137/Machine-Learning-Project-on-Cherenkov-gamma-telescope-)
 
 **2. Machine Learning:**
 This section showcases my machine learning projects utilizing various algorithms (e.g., TensorFlow, PyTorch) and data analysis tools (NumPy, Pandas, Seaborn).
-* **Machine-Learning-Project-on-Cherenkov-gamma-telescope:** [link to folder](https://github.com/QED137/Machine-Learning-Project-on-Cherenkov-gamma-telescope-)
-* **Physics Informed Machine Learning:** [link to folder](https://github.com/QED137/PIML)
-* **Computer Vision Project:** [link to folder](https://github.com/QED137/ComputerVisionProject)
-* **Machine Learning model for Higgs Boson:**[link to folder](https://github.com/QED137/HiggsBosonML) 
+* **Machine-Learning-Project-on-Cherenkov-gamma-telescope:** [For Details](https://github.com/QED137/Machine-Learning-Project-on-Cherenkov-gamma-telescope-)
+* **Physics Informed Machine Learning:** [For Details](https://github.com/QED137/PIML)
+* **Computer Vision Project:** [For Details](https://github.com/QED137/ComputerVisionProject)
+* **Machine Learning model for Higgs Boson:**[For Details](https://github.com/QED137/HiggsBosonML) 
 
 
 **3. Web Development:**
 This section explores my web development skills, featuring both static websites (HTML/CSS/JavaScript) and dynamic applications built with the Flask framework.
 * **My Portfolio:** (Static Webpage only HTML/CSS/Javascript) [link to MyPage](https://qed137.github.io/) [link to GitHub ](https://github.com/QED137/QED137.github.io)
 * **Full Stack Web Development:** Developed a dynamic job board prototype using HTML, CSS, JavaScript, Flask, and a cloud-hosted MySQL database managed by SQLAlchemy, enabling users to search, apply, and view dynamically generated job postings.
-  [link to folder](https://github.com/QED137/FlaskOnReplit) [Click here for full-stack webpage](https://web-development-with-flask.onrender.com/)
+  [For Details](https://github.com/QED137/FlaskOnReplit) [Click here for full-stack webpage](https://web-development-with-flask.onrender.com/)
   ***Please Note:***- Sometimes WebPage takes longer time than usual to load because I am using the free tier for both the database and deployment
  
 **4. Fun Projects:**
