@@ -10,7 +10,8 @@
 
 ## PROJECTS
   <div id="header" align="left">
-  <img src="https://media.giphy.com/media/Tgw604MyLJnDtbi4t0/giphy.gif" width="150" heigh="200" align="left"/>
+ 
+   <iframe src="https://giphy.com/embed/LESpNIDaNBUcRIPzng" width="480" height="466" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/gears-setting-configure-LESpNIDaNBUcRIPzng">via GIPHY</a></p>
 </div>
 
 ### This repository showcases my work in three key areas:
