@@ -1,6 +1,6 @@
 ## Welcome to the GitHub repository of Janmajay Kumar
  ### Background
-- 🔭  Master's in Astro and Particle Physics
+- 🔭  Master's in Astro and Particle Physics from the University of Tübingen, and a Master's in Physics from the Indian Institute of Technology, Delhi."
 ### Skills
 - ***Physics Simulations:***: Computational Progreamming in python and c++ and Monte Carlo Simulations.
 - ***Full-Stack Development***: Experienced in building web applications using Python frameworks like Flask and leveraging other web development tools.
@@ -15,8 +15,10 @@
 
 This repository showcases my work in several areas, demonstrating my skills and interests in computational science, machine learning, and web development. 
 <div align="center">
-  <img src="https://media.giphy.com/media/Tgw604MyLJnDtbi4t0/giphy.gif" width="20%">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="50%" style="object-fit: cover;">
 </div>
+
+
 
  
 
@@ -50,4 +52,4 @@ This section is dedicated to projects fueled by my love of coding. Here, you'll 
 * **Essential Statistics:** This section provides an introduction to essential statistical concepts needed to kickstart your understanding of data analysis. It includes course materials and relevant code examples. [link to three folders](https://github.com/QED137/EssentialStatistics)
 
 
-- 📫 janmajay@iitdalumni.com
+- You can contact me at janmajay@iitdalumni.com
