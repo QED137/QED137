@@ -9,6 +9,7 @@
 - ***MLOps***: Actively exploring the field of MLOps to bridge the gap between machine learning model development and production deployment.
 
 ## PROJECTS
+### This repository showcases my work in several areas, demonstrating my skills and interests in computational science, machine learning, and web development. 
   <div id="header" align="left">
   <img src="https://media.giphy.com/media/Tgw604MyLJnDtbi4t0/giphy.gif" width="150" heigh="200" align="left"/>
 </div>
