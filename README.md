@@ -39,7 +39,13 @@ This section explores my web development skills, featuring both static websites 
 * **My Portfolio:** (Static Webpage only HTML/CSS/Javascript) [link to MyPage](https://qed137.github.io/) [link to GitHub ](https://github.com/QED137/QED137.github.io)
 * **Full Stack Web Development:** Developed a dynamic job board prototype using HTML, CSS, JavaScript, Flask, and a cloud-hosted MySQL database managed by SQLAlchemy, enabling users to search, apply, and view dynamically generated job postings.
   [link to folder](https://github.com/QED137/FlaskOnReplit) [Click here for full-stack webpage](https://web-development-with-flask.onrender.com/)
-  ***Please Note:***- Sometimes WebPage takes longer time than usual to load because I am using the free tier for both the database and deployment 
+  ***Please Note:***- Sometimes WebPage takes longer time than usual to load because I am using the free tier for both the database and deployment
+  ## My Projects
+
+[![Python](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/)   [![Flask](https://img.shields.io/badge/flask-2.2.2-blue.svg)](http://flask.palletsprojects.com/)
+
+**Explore projects using Python and Flask!**
+
 
 
 **4. Fun Projects:**
