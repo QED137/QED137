@@ -35,7 +35,10 @@ This section showcases my machine learning projects utilizing various algorithms
 
 
 **3. Web Development:**
+This section explores my web development skills, featuring both static websites (HTML/CSS/JavaScript) and dynamic applications built with the Flask framework.
 * **My Portfolio:** (Static Webpage only HTML/CSS/Javascript) [link to MyPage](https://qed137.github.io/) [link to GitHub ](https://github.com/QED137/QED137.github.io)
+* **Full Stack Web Development:** Developed a dynamic job board prototype using HTML, CSS, JavaScript, Flask, and a cloud-hosted MySQL database managed by SQLAlchemy, enabling users to search, apply, and view dynamically generated job postings.
+  [link to folder](https://github.com/QED137/FlaskOnReplit)
 
 
 **4. Fun Projects:**
