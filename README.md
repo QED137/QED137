@@ -9,6 +9,10 @@
 - ***MLOps***: Actively exploring the field of MLOps to bridge the gap between machine learning model development and production deployment.
 
 ## PROJECTS
+  <div id="header" align="left">
+  <img src="https://media.giphy.com/media/Tgw604MyLJnDtbi4t0/giphy.gif" width="150" heigh="200" align="left"/>
+</div>
+
 ### This repository showcases my work in three key areas:
 1. **Physics Simulations:** This repository features a diverse collection of code from my Master's program, showcasing my skills in computational physics and simulation techniques.
 2. **Machine Learning:** Implement machine learning algorithms and models in various projects.
