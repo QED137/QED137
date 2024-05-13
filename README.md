@@ -9,7 +9,10 @@
 - ***MLOps***: Actively exploring the field of MLOps to bridge the gap between machine learning model development and production deployment.
 
 ## PROJECTS
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/26tn33aiTi1jkl6H6" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6">via GIPHY</a></p>
+  <div id="header" align="left">
+  <img src="https://media.giphy.com/media/Tgw604MyLJnDtbi4t0/giphy.gif" width="150" heigh="200" align="left"/>
+</div>
+
  
 
 ### This repository showcases my work in three key areas:
