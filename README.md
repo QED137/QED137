@@ -20,7 +20,7 @@ This repository showcases my work in several areas, demonstrating my skills and 
 
 This section features a diverse collection of code from my Master's program, highlighting my expertise in computational physics and simulation techniques. Explore the projects in the following folders:
 
-* **[Folder Name 1]:** (Brief description of the project's focus) - [Link to folder](https://github.com/QED137/Mass-transport-models-and-their-applications)
+* **[N-Bodies Simulation: Chaos In Planetary System]:**  - [Link to folder](https://github.com/QED137/Mass-transport-models-and-their-applications)
 * **[Folder Name 2]:** (Brief description of the project's focus) - [Link to folder](https://github.com/QED137/N-Body)
 * **[Folder Name 3]:** (Brief description of the project's focus) - [Link to folder](https://github.com/QED137/ComputationalAstrophysics)
 
