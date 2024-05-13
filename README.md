@@ -1,6 +1,7 @@
 ## Welcome to the GitHub repository of Janmajay Kumar
  ### Background
-- 🔭  Master's in Astro and Particle Physics from the University of Tübingen, and a Master's in Physics from the Indian Institute of Technology, Delhi."
+- 🔭  Master's in Astro and Particle Physics from the University of Tübingen, and a Master's in Physics from the Indian Institute of Technology, Delhi.
+- Contact: janmajay@iitdalumni.com
 ### Skills
 - ***Physics Simulations:***: Computational Progreamming in python and c++ and Monte Carlo Simulations.
 - ***Full-Stack Development***: Experienced in building web applications using Python frameworks like Flask and leveraging other web development tools.
@@ -47,7 +48,4 @@ This section explores my web development skills, featuring both static websites 
 This section is dedicated to projects fueled by my love of coding. Here, you'll find solutions to interesting math problems or applications I developed for the joy of exploration.
 * **Collatz Conjecture:** Investigates the Collatz sequence's behavior through code [link for folder] (https://github.com/QED137/Collatz_conjecture)
 * **Essential Statistics:** This section provides an introduction to essential statistical concepts needed to kickstart your understanding of data analysis. It includes course materials and relevant code examples. [link to three folders](https://github.com/QED137/EssentialStatistics)
-
-
-- You can contact me at janmajay@iitdalumni.com
 
