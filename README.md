@@ -15,8 +15,10 @@
 
 This repository showcases my work in several areas, demonstrating my skills and interests in computational science, machine learning, and web development. 
 <div align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="50%" style="object-fit: cover;">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3k4ZG92OXV6aHZnMG40bXN6a3RhZ3RsMGh6NWV5YXpoNHNsdWdmcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" height="200px" style="object-fit: contain;">
 </div>
+
+
 
 
 
