@@ -10,20 +10,17 @@
 - ***MLOps***: Actively exploring the field of MLOps to bridge the gap between machine learning model development and production deployment.
 
 ## PROJECTS
-## My Projects
 
-<div style="display: flex; justify-content: space-between;">  [![HTML5](https://img.shields.io/badge/HTML5-latest-orange.svg)](https://www.w3schools.com/tags/default.asp?tagname=html5)  
-  [![CSS3](https://img.shields.io/badge/CSS3-latest-orange.svg)](https://www.w3schools.com/css/default.asp)  
-  [![JavaScript](https://img.shields.io/badge/JavaScript-latest-yellow.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+
+[![HTML5](https://img.shields.io/badge/HTML5-latest-orange.svg)](https://www.w3schools.com/tags/default.asp?tagname=html5)  
+[![CSS3](https://img.shields.io/badge/CSS3-latest-orange.svg)](https://www.w3schools.com/css/default.asp)  
+[![JavaScript](https://img.shields.io/badge/JavaScript-latest-yellow.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
   [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://www.tensorflow.org/)   
-  [![PyTorch](https://img.shields.io/badge/PyTorch-latest-orange.svg)](https://pytorch.org/)  
-  [![NumPy](https://img.shields.io/badge/NumPy-latest-blue.svg)](https://numpy.org/)  
-  [![Pandas](https://img.shields.io/badge/pandas-latest-green.svg)](https://pandas.pydata.org/)  
-  [![Seaborn](https://img.shields.io/badge/Seaborn-latest-green.svg)](https://seaborn.pydata.org/)  
+  [![PyTorch](https://img.shields.io/badge/PyTorch-latest-orange.svg)](https://pytorch.org/)    
+  [![NumPy](https://img.shields.io/badge/NumPy-latest-blue.svg)](https://numpy.org/)    
+  [![Pandas](https://img.shields.io/badge/pandas-latest-green.svg)](https://pandas.pydata.org/)    
+  [![Seaborn](https://img.shields.io/badge/Seaborn-latest-green.svg)](https://seaborn.pydata.org/)    
   [![MySQL](https://img.shields.io/badge/MySQL-8.0-blue.svg)](https://www.mysql.com/)
-</div>
-
-
 
 ## My Projects
 This repository showcases my work in several areas, demonstrating my skills and interests in computational science, machine learning, and web development. 
