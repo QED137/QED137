@@ -10,6 +10,15 @@
 - ***MLOps***: Actively exploring the field of MLOps to bridge the gap between machine learning model development and production deployment.
 
 ## PROJECTS
+[![Flask](https://img.shields.io/badge/flask-2.2.2-blue.svg)](http://flask.palletsprojects.com/)
+[![Python](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/) 
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://www.tensorflow.org/)   
+[![PyTorch](https://img.shields.io/badge/PyTorch-latest-orange.svg)](https://pytorch.org/)  
+[![NumPy](https://img.shields.io/badge/NumPy-latest-blue.svg)](https://numpy.org/)  
+[![Pandas](https://img.shields.io/badge/pandas-latest-green.svg)](https://pandas.pydata.org/)  
+[![Seaborn](https://img.shields.io/badge/Seaborn-latest-green.svg)](https://seaborn.pydata.org/)  
+[![MySQL](https://img.shields.io/badge/MySQL-8.0-blue.svg)](https://www.mysql.com/)  
+## My Projects
 This repository showcases my work in several areas, demonstrating my skills and interests in computational science, machine learning, and web development. 
   <div id="header" align="left">
   <img src="https://media.giphy.com/media/Tgw604MyLJnDtbi4t0/giphy.gif" width="150" heigh="200" align="center"/>
@@ -40,20 +49,11 @@ This section explores my web development skills, featuring both static websites 
 * **Full Stack Web Development:** Developed a dynamic job board prototype using HTML, CSS, JavaScript, Flask, and a cloud-hosted MySQL database managed by SQLAlchemy, enabling users to search, apply, and view dynamically generated job postings.
   [link to folder](https://github.com/QED137/FlaskOnReplit) [Click here for full-stack webpage](https://web-development-with-flask.onrender.com/)
   ***Please Note:***- Sometimes WebPage takes longer time than usual to load because I am using the free tier for both the database and deployment
-  ## My Projects
-
-[![Python](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/)   [![Flask](https://img.shields.io/badge/flask-2.2.2-blue.svg)](http://flask.palletsprojects.com/)
-
-**Explore projects using Python and Flask!**
-
-
-
+ 
 **4. Fun Projects:**
 This section is dedicated to projects fueled by my love of coding. Here, you'll find solutions to interesting math problems or applications I developed for the joy of exploration.
 * **Collatz Conjecture:** Investigates the Collatz sequence's behavior through code [link for folder] (https://github.com/QED137/Collatz_conjecture)
 * **Essential Statistics:** This section provides an introduction to essential statistical concepts needed to kickstart your understanding of data analysis. It includes course materials and relevant code examples. [link to three folders](https://github.com/QED137/EssentialStatistics)
-
-### Physics Simulations
 
 
 - 📫 janmajay@iitdalumni.com
