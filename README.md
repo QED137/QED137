@@ -17,9 +17,10 @@
 
 ### This repository showcases my work in three key areas:
 1. **Physics Simulations:** This repository features a diverse collection of code from my Master's program, showcasing my skills in computational physics and simulation techniques.
-2. **Machine Learning:** Implement machine learning algorithms and models in various projects.
-3. **Web Development:** Build web applications using various web development frameworks and tools.
+   [folder1](https://github.com/QED137/Mass-transport-models-and-their-applications)
+3. **Machine Learning:** Implement machine learning algorithms and models in various projects.
+4. **Web Development:** Build web applications using various web development frameworks and tools.
+### Physics Simulations
 
--
 
 - 📫 janmajay@iitdalumni.com
