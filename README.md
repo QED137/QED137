@@ -38,12 +38,14 @@ This section showcases my machine learning projects utilizing various algorithms
 This section explores my web development skills, featuring both static websites (HTML/CSS/JavaScript) and dynamic applications built with the Flask framework.
 * **My Portfolio:** (Static Webpage only HTML/CSS/Javascript) [link to MyPage](https://qed137.github.io/) [link to GitHub ](https://github.com/QED137/QED137.github.io)
 * **Full Stack Web Development:** Developed a dynamic job board prototype using HTML, CSS, JavaScript, Flask, and a cloud-hosted MySQL database managed by SQLAlchemy, enabling users to search, apply, and view dynamically generated job postings.
-  [link to folder](https://github.com/QED137/FlaskOnReplit)
+  [link to folder](https://github.com/QED137/FlaskOnReplit) [Click here for full-stack webpage](https://web-development-with-flask.onrender.com/)
+  ***Please Note:***- Sometimes WebPage takes longer time than usual to load because I am using the free tier for both the database and deployment 
 
 
 **4. Fun Projects:**
-
 This section is dedicated to projects fueled by my love of coding. Here, you'll find solutions to interesting math problems or applications I developed for the joy of exploration.
+* **Collatz Conjecture:** Investigates the Collatz sequence's behavior through code [link for folder] (https://github.com/QED137/Collatz_conjecture)
+* **Essential Statistics:** This section provides an introduction to essential statistical concepts needed to kickstart your understanding of data analysis. It includes course materials and relevant code examples. [link to three folders](https://github.com/QED137/EssentialStatistics)
 
 ### Physics Simulations
 
