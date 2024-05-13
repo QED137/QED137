@@ -27,6 +27,7 @@ This section features a diverse collection of code from my Master's program, hig
 * **Cherenkov Gamma Telescope Event Classification:** [link to folder](https://github.com/QED137/Machine-Learning-Project-on-Cherenkov-gamma-telescope-)
 
 **2. Machine Learning:**
+This section showcases my machine learning projects utilizing various algorithms (e.g., TensorFlow, PyTorch) and data analysis tools (NumPy, Pandas, Seaborn).
 * **Machine-Learning-Project-on-Cherenkov-gamma-telescope:** [link to folder](https://github.com/QED137/Machine-Learning-Project-on-Cherenkov-gamma-telescope-)
 * **Physics Informed Machine Learning:** [link to folder](https://github.com/QED137/PIML)
 * **Computer Vision Project:** [link to folder](https://github.com/QED137/ComputerVisionProject)
