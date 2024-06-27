@@ -7,7 +7,7 @@
 - ***Full-Stack Development***: Experienced in building web applications using Python frameworks like Flask and leveraging other web development tools.
 - ***Machine Learning & Deep Learning***: Possess a strong foundation in machine learning and deep learning concepts, honed through coursework on platforms like Coursera.
 ### Current Focus
-- ***MLOps***: Actively exploring the field of MLOps to bridge the gap between machine learning model development and production deployment.
+- ***Probabilistic Machine Learning At Tübingen AI Center, University of Tübingen***: Actively exploring the field of MLOps to bridge the gap between machine learning model development and production deployment.
 - ***Alle-Dinge*** Currently, As a freelancer, I am developing a multipurpose mobile app that can organize PDFs, audio, and video files, either privately or for an organization. [With Michael Holzheu](https://github.com/All-Dings)
 
 ## PROJECTS
