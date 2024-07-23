@@ -3,7 +3,7 @@
 - 🔭  Master's in Astro and Particle Physics from the University of Tübingen, and a Master's in Physics from the Indian Institute of Technology, Delhi.
 - Contact: janmajay@iitdalumni.com
 ### Skills
-- ***Physics Simulations:***: Computational Progreamming in python and c++ and Monte Carlo Simulations.
+- ***Physics Simulations:***: Computational Programming in Python and Monte Carlo Simulations.
 - ***Full-Stack Development***: Experienced in building web applications using Python frameworks like Flask and leveraging other web development tools.
 - ***Machine Learning & Deep Learning***: Possess a strong foundation in machine learning and deep learning concepts, honed through coursework on platforms like Coursera.
 ### Current Focus
