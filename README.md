@@ -4,7 +4,7 @@
 - Contact: janmajay@iitdalumni.com
 ### Skills
 - ***Physics Simulations:***: Computational Programming in Python and Monte Carlo Simulations.
-- ***Full-Stack Development***: Experienced in building web applications using Python frameworks like Flask and leveraging other web development tools.
+[- ***Full-Stack Development***: Experienced in building web applications using Python frameworks like Flask and leveraging other web development tools.] :#
 - ***Machine Learning & Deep Learning***: Possess a strong foundation in machine learning and deep learning concepts, honed through coursework on platforms like Coursera.
 ### Current Focus
 - ***Probabilistic Machine Learning At Tübingen AI Center, University of Tübingen***: Currently doing a course on Probabilistic Machine Learning. This is, basically, the Bayesian inference model. [For the details click here](https://github.com/QED137/Probabilistic-Machine-Learning)
