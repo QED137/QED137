@@ -15,6 +15,23 @@
 ---
 
 ## 💼 Featured Projects
+### 🎬 [CineBot: RAG-based Movie Recommender](https://github.com/QED137/CineBot)
+
+A smart movie recommendation system built as my **WBS Coding School final graduation project**.  
+CineBot uses **RAG (Retrieval-Augmented Generation)** and **semantic search** to provide personalized movie suggestions based on user intent.
+
+It combines **Hugging Face Transformers**, **Neo4j AuraDB**, and **Streamlit** to create a production-ready ML application.
+
+**Tech Stack:** Python · Hugging Face (E5 model) · RAG NLP · Neo4j AuraDB · Streamlit
+
+💡 Demonstrates:
+- RAG pipeline with graph-based semantic retrieval
+- NLP embeddings for natural language understanding
+- Full-stack ML app architecture & deployment-readiness
+
+🔗 [GitHub Repo](https://github.com/QED137/CineBot) | 🎥 *Live demo coming soon*
+
+
 
 ### 🧠 [Physics-Informed Machine Learning](https://github.com/QED137/PIML)
 Physics-inspired ML techniques to improve generalization with limited data.
