@@ -15,21 +15,26 @@
 ---
 
 ## 💼 Featured Projects
-### 🎬 [CineBot: RAG-based Movie Recommender](https://github.com/QED137/CineBot)
+### 🎬 [CineBot: Multimodal RAG-Based Movie Recommender](https://github.com/QED137/CineBot)
 
-A smart movie recommendation system built as my **WBS Coding School final graduation project**.  
-CineBot uses **RAG (Retrieval-Augmented Generation)** and **semantic search** to provide personalized movie suggestions based on user intent.
+A smart, multimodal movie recommender system built as my **WBS Coding School graduation project**.  
+CineBot integrates **visual (poster/video)** and **textual (plot, reviews, queries)** data using a **Multimodal RAG (Retrieval-Augmented Generation)** pipeline.
 
-It combines **Hugging Face Transformers**, **Neo4j AuraDB**, and **Streamlit** to create a production-ready ML application.
+🚀 **Key Features:**
+- 🎥 **Visual Recognition:** Extracts movie identity from posters and video clips using computer vision models.
+- 🧠 **Semantic Query Understanding:** Uses Hugging Face’s `E5` for text-based recommendations.
+- 🌐 **Graph Reasoning:** Connects user queries to movies via Neo4j AuraDB knowledge graph.
+- 📲 **Interactive UI:** Built with Streamlit for live querying and results.
 
-**Tech Stack:** Python · Hugging Face (E5 model) · RAG NLP · Neo4j AuraDB · Streamlit
+**Tech Stack:** Python · Hugging Face Transformers · CLIP · RAG NLP · Neo4j AuraDB · Streamlit · OpenCV
 
 💡 Demonstrates:
-- RAG pipeline with graph-based semantic retrieval
-- NLP embeddings for natural language understanding
-- Full-stack ML app architecture & deployment-readiness
+- Multimodal RAG architecture (CV + NLP + graph retrieval)
+- Real-time recommendations with visual/textual input
+- Full-stack ML deployment mindset
 
 🔗 [GitHub Repo](https://github.com/QED137/CineBot) | 🎥 *Live demo coming soon*
+
 
 
 
