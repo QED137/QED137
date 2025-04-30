@@ -21,11 +21,11 @@ Physics-inspired ML techniques to improve generalization with limited data.
 
 ### 🔭 [Higgs Boson ML Model](https://github.com/QED137/HiggsBosonML)
 Used classification models to predict signal/background in particle physics data.
-
+<!--
 ### 🌐 [Full-Stack Job Board App](https://github.com/QED137/FlaskOnReplit)
 Flask app with MySQL backend for job search and applications.  
 🔗 [Live Demo](https://web-development-with-flask.onrender.com/)
-
+-->
 ### 📦 [Probabilistic Machine Learning (Coursework)](https://github.com/QED137/Probabilistic-Machine-Learning)
 Hands-on projects focused on Bayesian inference techniques.
 
