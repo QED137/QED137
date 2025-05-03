@@ -55,23 +55,27 @@ Hands-on projects focused on Bayesian inference techniques.
 ## 📈 GitHub Stats
 
 <div align="center">
-  
+
+  <!-- Streak Stats -->
   <a href="https://github.com/QED137">
-    <img src="https://streak-stats.demolab.com?user=QED137&theme=solarized-dark&border_radius=6&card_width=500" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=QED137&theme=solarized-dark&border_radius=6&card_width=500&cache_seconds=10" alt="GitHub Streak" />
   </a>
 
   <br><br>
 
+  <!-- Standard GitHub Stats -->
   <a href="https://github.com/QED137">
     <img src="https://github-readme-stats.vercel.app/api?username=QED137&show_icons=true&theme=solarized-dark&hide_border=true" alt="Janmajay's GitHub Stats" />
   </a>
 
   <br><br>
 
+  <!-- Top Languages -->
   <a href="https://github.com/QED137">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QED137&layout=compact&theme=solarized-dark&hide_border=true" alt="Top Languages" />
   </a>
 
 </div>
+
 
 
