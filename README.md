@@ -3,6 +3,7 @@
 🎓 Dual Master's in Astro and Particle Physics (University of Tübingen) and Physics (IIT Delhi).  
 🔍 Passionate about data science, machine learning, and computational physics.  
 📬 Reach me at: janmajay@iitdalumni.com
+🌐 [Portfolio Website](https://janmajay.de/)
 
 ---
 
