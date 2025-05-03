@@ -53,19 +53,10 @@ Hands-on projects focused on Bayesian inference techniques.
 
 ---
 ## 📈 GitHub Stats
+<p align="center">
+ 
 
-<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=QED137&theme=solarized-dark&border_radius=6" />
+ 
 
-  <!-- Streak Stats -->
-  <a href="https://github.com/QED137">
-    <img src="https://streak-stats.demolab.com?user=QED137&theme=solarized-dark&border_radius=6&card_width=500&cache_seconds=10" alt="GitHub Streak" />
-  </a>
-
-  <br><br>
-
-
-
-</div>
-
-
-
+</p>
