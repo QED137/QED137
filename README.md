@@ -63,17 +63,7 @@ Hands-on projects focused on Bayesian inference techniques.
 
   <br><br>
 
-  <!-- Standard GitHub Stats -->
-  <a href="https://github.com/QED137">
-    <img src="https://github-readme-stats.vercel.app/api?username=QED137&show_icons=true&theme=solarized-dark&hide_border=true" alt="Janmajay's GitHub Stats" />
-  </a>
 
-  <br><br>
-
-  <!-- Top Languages -->
-  <a href="https://github.com/QED137">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QED137&layout=compact&theme=solarized-dark&hide_border=true" alt="Top Languages" />
-  </a>
 
 </div>
 
