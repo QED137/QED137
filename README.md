@@ -52,18 +52,26 @@ Flask app with MySQL backend for job search and applications.
 Hands-on projects focused on Bayesian inference techniques.
 
 ---
-
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=QED137&theme=solarized-dark&border_radius=6" />
-</p>
-
-
-### :fire: Github stats
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=QED137&theme=solarized-dark&border_radius=6&card_width=700&card_height=200" alt="GitHub Streak" /></a>
+  
+  <a href="https://github.com/QED137">
+    <img src="https://streak-stats.demolab.com?user=QED137&theme=solarized-dark&border_radius=6&card_width=500" alt="GitHub Streak" />
+  </a>
+
+  <br><br>
+
+  <a href="https://github.com/QED137">
+    <img src="https://github-readme-stats.vercel.app/api?username=QED137&show_icons=true&theme=solarized-dark&hide_border=true" alt="Janmajay's GitHub Stats" />
+  </a>
+
+  <br><br>
+
+  <a href="https://github.com/QED137">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QED137&layout=compact&theme=solarized-dark&hide_border=true" alt="Top Languages" />
+  </a>
+
 </div>
 
-  
 
