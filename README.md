@@ -25,7 +25,7 @@ CineBot integrates **visual (poster/video)** and **textual (plot, reviews, queri
 - **Visual Recognition:** Extracts movie identity from posters and video clips using computer vision models.
 -  **Semantic Query Understanding:** Uses Hugging Face’s `E5` for text-based recommendations.
 -  **Graph Reasoning:** Connects user queries to movies via Neo4j AuraDB knowledge graph.
-- 📲 **Interactive UI:** Built with Streamlit for live querying and results.
+- **Interactive UI:** Built with Streamlit for live querying and results.
 
 **Tech Stack:** Python · Hugging Face Transformers · CLIP · RAG NLP · Neo4j AuraDB · Streamlit · OpenCV
 
@@ -47,7 +47,7 @@ Used classification models to predict signal/background in particle physics data
 <!--
 ###  [Full-Stack Job Board App](https://github.com/QED137/FlaskOnReplit)
 Flask app with MySQL backend for job search and applications.  
-🔗 [Live Demo](https://web-development-with-flask.onrender.com/)
+ [Live Demo](https://web-development-with-flask.onrender.com/)
 -->
 ###  [Probabilistic Machine Learning (Coursework)](https://github.com/QED137/Probabilistic-Machine-Learning)
 Hands-on projects focused on Bayesian inference techniques.
