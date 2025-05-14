@@ -34,7 +34,7 @@ CineBot integrates **visual (poster/video)** and **textual (plot, reviews, queri
 - Real-time recommendations with visual/textual input
 - Full-stack ML deployment mindset
 
-🔗 [GitHub Repo](https://github.com/QED137/CineBot) | 🎥 [Find app here at streamlit](https://qed137-cinebot-app-yvadoa.streamlit.app/)
+ [GitHub Repo](https://github.com/QED137/CineBot) |  [Find app here at streamlit](https://qed137-cinebot-app-yvadoa.streamlit.app/)
 
 
 
