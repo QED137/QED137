@@ -1,3 +1,18 @@
+<div align="center">
+  <img src="https://github.com/QED137/QED137/blob/main/banner_.png" alt="LLMs on Graphs Banner" style="width:100%; max-width:1000px;" />
+</div>
+
+---
+
+### 👋 Hi, I'm Janmajay Kumar  
+**Building smarter AI systems with Graphs + LLMs**  
+Neo4j | OpenAI | Multimodal RAG | Python | Streamlit
+
+🚀 _Let’s turn connections into conversations._
+
+🔗 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-ID/) | [Portfolio](https://your-portfolio.com)
+
+
 # Hi, I'm Janmajay Kumar
 
 Dual Master's in Astro and Particle Physics (University of Tübingen) and Physics (IIT Delhi).  
