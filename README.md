@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://github.com/QED137/QED137/blob/main/banner_.png" alt="LLMs on Graphs Banner" style="width:100%; max-width:1000px;" />
-</div>
+</div> -->
 
 ---
 
@@ -10,7 +10,7 @@ Neo4j | OpenAI | Multimodal RAG | Python | Streamlit
 
 🚀 _Let’s turn connections into conversations._
 
-🔗 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-ID/) | [Portfolio](https://your-portfolio.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/jkiit/) | [Portfolio](https://janmajay.de/)
 
 
 # Hi, I'm Janmajay Kumar
@@ -23,15 +23,16 @@ Passionate about data science, machine learning, and computational physics.
 ---
 
 ## Skills
+- **Program** (Panda, C++)
 - **Machine Learning & Deep Learning** (TensorFlow, PyTorch, Scikit-learn)
-- **Physics Simulations** (Python, Monte Carlo, N-Body)
-- **Web Development** (Flask, HTML/CSS/JavaScript)
-- **Data Tools** (Pandas, NumPy, Seaborn, SQL)
+- **Physics Simulations** ( Monte Carlo, N-Body)
+- **Web Development** (FastAPI, HTML/CSS/JavaScript, MySQl; NEO4j)
+
 
 ---
 
 ##  Featured Projects
-###  [CineBot: Multimodal RAG-Based Movie Recommender](https://github.com/QED137/CineBot)
+###  [CineBot: Multimodal RAG-Based Movie Recommender](https://cinebot.janmajay.de/)
 
 A smart, multimodal movie recommender system built as my **WBS Coding School graduation project**.  
 CineBot integrates **visual (poster/video)** and **textual (plot, reviews, queries)** data using a **Multimodal RAG (Retrieval-Augmented Generation)** pipeline.
