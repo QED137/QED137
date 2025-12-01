@@ -15,7 +15,7 @@ Neo4j | OpenAI | Multimodal RAG | Python | Streamlit
 
 # Hi, I'm Janmajay Kumar
 
-Dual Master's in Astro and Particle Physics (University of Tübingen) and Physics (IIT Delhi).  
+Master's in Astro and Particle Physics (University of Tübingen) and Physics (IIT Delhi).  Pursuing PhD in Experimental Particle Phyiscs
 Passionate about data science, machine learning, and computational physics.  
  Reach me at: janmajay@iitdalumni.com
  [Portfolio Website](https://janmajay.de/)
